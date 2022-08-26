@@ -1,0 +1,36 @@
+ .footer-container {
+    background-color: bisque;
+}
+.red-text{
+    color: red;
+}
+p {
+    font-size: 24px;
+  }
+  p {
+    font-family: monospace;
+  }
+  .thick-blue-border {
+    border-color: blue;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 20px;
+  }
+  h1 {
+    font-family: lobster;
+  }
+  li {
+    font-size: 24px;
+  }
+  .smaller-image {
+    width: 400px;
+    border-radius: 50px;
+    border-radius: 30%;
+  }
+  .silver-background {
+    background-color: silver;
+  }
+  body {
+    background-color: rgba(0, 128, 115, 0.389);
+  }
+  
