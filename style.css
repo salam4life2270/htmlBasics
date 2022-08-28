@@ -1,4 +1,4 @@
- .footer-container {
+.footer-container {
     background-color: bisque;
 }
 .red-text{
@@ -33,4 +33,11 @@ p {
   body {
     background-color: rgba(0, 128, 115, 0.389);
   }
+  #abc {
+    font-family: cursive;
+  }
+  a:hover {
+    color: darkorange;
+  }
+
   
